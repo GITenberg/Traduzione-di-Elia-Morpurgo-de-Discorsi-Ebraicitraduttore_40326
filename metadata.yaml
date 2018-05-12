@@ -1,0 +1,36 @@
+_repo: Traduzione-di-Elia-Morpurgo-de-Discorsi-Ebraicitraduttore_40326
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40326-rst/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Wessely, Naphtali Herz
+    aliases:
+    - Wessely, Naphtali Hirz
+    - Wessely, Hartwig
+    birthdate: 1725
+    deathdate: 1805
+    gutenberg_agent_id: '40553'
+    url: http://www.gutenberg.org/2009/agents/40553
+  - agent_name: Morpurgo, Elia
+    gutenberg_agent_id: '40554'
+    url: http://www.gutenberg.org/2009/agents/40554
+description: ''
+gutenberg_bookshelf: IT Scienze politiche
+gutenberg_issued: '2012-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40326'
+  lccn: ltf90022517
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Joseph II, Holy Roman Emperor, 1741-1790'
+- !lcc 'DS'
+title: "Traduzione di Elia Morpurgo de' Discorsi Ebraici di Tolleranza e Felicità\r\
+  \ndiretti da Naftalì Herz Weisel, agli Ebrei dimoranti ne' dominj dell'Augustissimo\
+  \ Imperadore Giuseppe II. il Giusto con le note del traduttore"
+url: http://www.gutenberg.org/ebooks/40326
